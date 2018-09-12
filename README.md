@@ -1,5 +1,7 @@
 # Deep Learning
 
+[![Build Status](https://dev.azure.com/zhiliaxu/xuzl/_apis/build/status/zhiliangxu.DeepLearning)](https://dev.azure.com/zhiliaxu/xuzl/_build/latest?definitionId=1)
+
 Training resources around Deep Learning with CNTK
 
 https://www.surveymonkey.com/r/V8WYGZ8
